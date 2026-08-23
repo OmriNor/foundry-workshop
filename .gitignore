@@ -1,0 +1,11 @@
+.env
+.venv/
+.history/
+*.egg-info/
+__pycache__/
+*.py[cod]
+.azure/
+azure-config/
+*.token
+*.secret
+.DS_Store
