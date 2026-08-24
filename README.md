@@ -14,6 +14,13 @@ assigns **Foundry Project Manager** access at the workshop Foundry resource scop
 
 ### Set Up Your Environment
 
+Clone the workshop repository and open its directory:
+
+```bash
+git clone https://github.com/OmriNor/foundry-workshop.git
+cd foundry-workshop
+```
+
 #### macOS and Linux
 
 ```bash
