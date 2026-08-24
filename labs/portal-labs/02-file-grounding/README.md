@@ -8,7 +8,7 @@ answers can cite the supplied knowledge.
 ## Attach Files
 
 1. Open your `<PARTICIPANT_ID>-agent-baseline` agent in the Foundry portal.
-2. Select **Upload files**.
+2. Select **Upload files** in the **Tools**.
 3. In the file-attachment experience, create a new index named
 	`<PARTICIPANT_ID>-grounding-vector-store`.
 4. Add these four files to the index:
