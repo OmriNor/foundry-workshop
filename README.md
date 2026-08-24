@@ -32,7 +32,7 @@ cp .env.example .env
 #### Windows PowerShell
 
 ```powershell
-py -3.11 -m venv .venv
+python -3.11 -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
 Copy-Item .env.example .env
 ```
